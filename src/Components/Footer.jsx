@@ -7,16 +7,16 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-lists">
             <h1 className="logo">
-              <img src="../../public/logo.png" alt="Logo" />
-              <img src="../../public/Vector.png" alt="Vector" />
+              <img src="/logo.png" alt="Logo" />
+              <img src="/Vector.png" alt="Vector" />
             </h1>
             <ul className="info-1" style={{display:"flex",flexDirection:"column",alignItems:"center"}}>
               <li className="info">
-                <img src="../../public/email.png" alt="Email Icon" />
+                <img src="/email.png" alt="Email Icon" />
                 <p>Help@Frybix.com</p>
               </li>
               <li className="info">
-                <img src="../../public/phone.png" alt="Phone Icon" />
+                <img src="/phone.png" alt="Phone Icon" />
                 <p>+1234 456 678 89</p>
               </li>
             </ul>

@@ -10,7 +10,7 @@ const AdvantagesSection = () => {
         </div>
         <div className="features-list">
           <div className="features-list-item">
-            <img src="../../public/notif.png" alt="Notification" />
+            <img src="/notif.png" alt="Notification" />
             <li>Clever Notifications</li>
           </div>
           <p>Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.</p>
@@ -18,7 +18,7 @@ const AdvantagesSection = () => {
       </div>
       <div className="img-container">
         <span className="bg-blur-red"></span>
-        <img src="../../public/features-1.png" alt="Features" />
+        <img src="/features-1.png" alt="Features" />
       </div>
     </div>
   );

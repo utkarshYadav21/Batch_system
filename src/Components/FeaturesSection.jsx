@@ -5,7 +5,7 @@ const FeaturesSection = () => {
     <div className="features-section">
       <div className="img-container">
         <span className="bg-blur-red"></span>
-        <img src="../../public/features-1.png" alt="Features" />
+        <img src="/features-1.png" alt="Features" />
       </div>
       <div className="info-section">
         <div className="headings">
@@ -14,17 +14,17 @@ const FeaturesSection = () => {
         </div>
         <div className="features-list">
           <div className="features-list-item">
-            <img src="../../public/star-05.png" alt="Star" />
+            <img src="/star-05.png" alt="Star" />
             <li>Budgeting Intervals</li>
           </div>
           <p>Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.</p>
           <div className="features-list-item">
-            <img src="../../public/cube-02.png" alt="Cube" />
+            <img src="/cube-02.png" alt="Cube" />
             <li>Budgeting Intervals</li>
           </div>
           <p>Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.</p>
           <div className="features-list-item">
-            <img src="../../public/cube-04.png" alt="Cube" />
+            <img src="/cube-04.png" alt="Cube" />
             <li>Budgeting Intervals</li>
           </div>
           <p>Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.</p>

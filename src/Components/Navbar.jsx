@@ -4,8 +4,8 @@ const Navbar = () => {
   return (
     <nav className="nav">
       <div className="logo">
-        <img src="../../public/logo.png" alt="Logo" />
-        <img src="../../public/Vector.png" alt="Vector" />
+        <img src="/logo.png" alt="Logo" />
+        <img src="/Vector.png" alt="Vector" />
       </div>
       <ul>
         <li className="home-li-item">Home</li>

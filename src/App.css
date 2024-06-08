@@ -362,7 +362,7 @@ body {
 .banner-bottom {
   width: 80%;
   height: 100vh; 
-  background-image: url('../public/ad-bg.png');
+  background-image: url('/ad-bg.png');
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: center; 
